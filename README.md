@@ -118,7 +118,6 @@ Full write-up in [`Business_Recommendation_Fraud_Detection_Final.md`](https://cl
 * Dataset reflects a simulated 2017 environment — fraud patterns evolve, so periodic retraining on live data would be required before production use.  
 * Cost assumptions (4.41x fraud cost multiplier, review cost scenarios) are industry-informed estimates, not this specific institution's actual figures.
 
-Full details in the [business recommendation document](https://claude.ai/chat/Business_Recommendation_Fraud_Detection_Final.md), Section 6\.
 
 ---
 
